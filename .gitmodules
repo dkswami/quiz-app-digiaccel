@@ -1,0 +1,8 @@
+[submodule "quiz-api"]
+	path = quiz-api
+	url = https://github.com/dkswami/quiz-api
+	branch = main
+[submodule "quiz-frontend"]
+	path = quiz-frontend
+	url = https://github.com/dkswami/quiz-frontend
+	branch = main
