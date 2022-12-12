@@ -1,7 +1,8 @@
 # quiz-app-digiaccel
 I've implemented the project using Node (NESTJS) as backend server and React(NextJS) as frontend server.
 Here are the deployment links:-
-Backend:
+Backend:  http://quiznestapi-env.eba-rpxacjci.ap-south-1.elasticbeanstalk.com
+
 Frontend: https://quiz-frontend-omega.vercel.app/
 
 This application includes authentication with JWT
